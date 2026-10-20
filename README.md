@@ -1,7 +1,8 @@
 # Patrones de diseño web responsive con CSS Grid y Flexbox
 
 > **Proyecto de formación.** Ejercicios del curso *Desarrollo Web Completo* de
-> Juan Pablo De la Torre Valdez ([Código Con Juan](https://codigoconjuan.com)).
+> Juan Pablo De la Torre Valdez ([Código Con Juan](https://codigoconjuan.com)),
+> que hice como formación profesional para mi trabajo.
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
@@ -72,7 +73,8 @@ Completo* de Juan Pablo De la Torre Valdez ([Código Con Juan](https://codigocon
 # Responsive web design patterns with CSS Grid and Flexbox
 
 > **Learning project.** Exercises from the *Desarrollo Web Completo* course by
-> Juan Pablo De la Torre Valdez ([Código Con Juan](https://codigoconjuan.com)).
+> Juan Pablo De la Torre Valdez ([Código Con Juan](https://codigoconjuan.com)),
+> taken as professional training for my job.
 
 A catalogue of 14 responsive layout patterns. The first twelve are solved twice, once with
 **CSS Grid** and once with **Flexbox**, to compare both techniques on the same HTML. All of
