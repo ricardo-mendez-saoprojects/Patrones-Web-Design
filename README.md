@@ -47,7 +47,7 @@ cd Patrones-Web-Design
 python3 -m http.server 8000
 ```
 
-Abre <http://localhost:8000/01-2columnas_iguales_css_grid/> (o cualquier otra carpeta) y
+Abre `http://localhost:8000/01-2columnas_iguales_css_grid/` (o cualquier otra carpeta) y
 cambia el ancho de la ventana para ver cómo se reorganiza.
 
 ## Estructura
@@ -101,7 +101,7 @@ cd Patrones-Web-Design
 python3 -m http.server 8000
 ```
 
-Open <http://localhost:8000/01-2columnas_iguales_css_grid/> (or any other folder) and resize
+Open `http://localhost:8000/01-2columnas_iguales_css_grid/` (or any other folder) and resize
 the window to see the layout change.
 
 ## Structure
